@@ -262,6 +262,16 @@ body {
     border-radius: 0px 24px 24px 0px;
 }
 
+.message-pp {
+    position: absolute;
+    min-height: 20px;
+    min-width: 20px;
+    left: 3%;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+}
+
 .bg-image {
     width: 100%;
     height: 100%;
